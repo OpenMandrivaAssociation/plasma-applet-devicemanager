@@ -9,9 +9,6 @@ Group: 		Graphical desktop/KDE
 Url: 		http://kde-look.org/content/show.php/Device+Manager?content=106051
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	plasma-devel
-#BuildRequires:	kdebase4-devel
-#BuildRequires:	qimageblitz-devel
-Provides:	plasma-applet
 
 
 %description 
