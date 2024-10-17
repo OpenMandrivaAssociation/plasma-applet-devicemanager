@@ -6,7 +6,7 @@ Release: 	%mkrel 1
 Source0:	106051-%oname-%version.tar.bz2
 License: 	GPLv2+
 Group: 		Graphical desktop/KDE
-Url: 		http://kde-look.org/content/show.php/Device+Manager?content=106051
+Url: 		https://kde-look.org/content/show.php/Device+Manager?content=106051
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	plasma-devel
 
